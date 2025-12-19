@@ -2,7 +2,6 @@
 
 **BeAcquired** is a Java-based board game inspired by the classic game "Acquire". It is a strategy game where players build companies, buy stocks, and merge corporations to become the wealthiest player.
 
-![Game Preview](game_preview.png)
 
 ## Project Overview
 This project was developed as a final project for a Java programming class. It demonstrates the use of:
@@ -43,3 +42,4 @@ java --module-path /path/to/javafx/lib --add-modules javafx.controls,javafx.fxml
 
 ## License
 This project is for educational purposes.
+
